@@ -22,7 +22,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>yahoo.yinst.yjava_gson</groupId>
+      <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.2.4</version>
     </dependency>
